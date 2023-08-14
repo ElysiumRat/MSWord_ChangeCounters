@@ -3,7 +3,7 @@ A collection of attempts to write VBA macros for Microsoft Word to count the num
 
 All macros work, but as soon as a document becomes large, they become too slow to be of any use. The main reason I am sharing them is because when I was looking for a solution to this exact problem, none were immediately available, so perhaps in sharing them, people will be able to use them (or see that they're not useable for certain projects). Brief descriptions of each attempt follow.
 
-# AuthorArrayCheck
+## AuthorArrayCheck
 My first attempt. This creates arrays of authors and the number of changes and comments each author has contributed to the document, before giving a complete list of who did how much of each. It works, but it's too slow to be useable in larger documents (tests on a document with 1600+ changes were abandoned after 15 minutes of Word being unresponsive).
 
 ## ChangeCheck
