@@ -8,7 +8,7 @@ A VBA macro for Microsoft Word to count the numbers of changes made by specific 
 
 It uses a `Scripting.Dictionary` to store authors and counters, avoiding the complexity and fragility of manually managed arrays.
 
-I previously attempted to make a Word VBA macro for counting changes in a document by author. My prior attempts failed for reasons related to Word's backend, and further research has given me a working solution, which I provide separately in the "Failed" folder for the sake of clarity and posterity.
+I previously attempted to make a Word VBA macro for counting changes in a document by author. My prior attempts failed for reasons related to Word's backend, and further research has given me a working solution. I provide said failed attempts separately in the "Failed" folder for the sake of clarity and posterity.
 
 ## How AuthorCheck Works
 
