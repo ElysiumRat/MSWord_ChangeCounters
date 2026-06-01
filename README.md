@@ -1,4 +1,4 @@
-# MSWord_AuthorCheck
+# AuthorCheck
 A VBA macro for Microsoft Word to count the numbers of changes made by specific authors.
 
 `AuthorCheck` scans all comments and revisions in the active Word document, groups them by author, and outputs a summary showing:
